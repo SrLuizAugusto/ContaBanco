@@ -20,7 +20,7 @@ public class Main {
 
         System.out.println("Digite o saldo atual: ");
         conta.saldo = sc.nextFloat();
-
+        sc.close();
 
 
         System.out.println("\n\n________________________________________________\n\n"+
